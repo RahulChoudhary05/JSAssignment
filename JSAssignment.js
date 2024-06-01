@@ -29,4 +29,3 @@ function getTotalSupply() {
 }
 
 // call your functions below this line
-
